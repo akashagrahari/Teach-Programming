@@ -22,13 +22,41 @@ WAP in Java to input a number and test whether it's a palindrome or not.
 
 #Problem 2
 WAP in Java to input a string say - "BOND IS DEAD" and encode and print it as - 
-BID$OSE$N*A$DD$**$
+<i>BID$OSE$N*A$DD$**$</i></br>
+
 <b>Hint</b> - 
-BID$
-OSE$
-N*A$
-D D$
-* *$
+<table>
+<tr>
+  <td>B</td>
+  <td>I</td>
+  <td>D</td>
+  <td>$</td>
+</tr>
+<tr>
+  <td>O</td>
+  <td>S</td>
+  <td>E</td>
+  <td>$</td>
+</tr>
+<tr>
+  <td>N</td>
+  <td>*</td>
+  <td>A</td>
+  <td>$</td>
+</tr>
+<tr>
+  <td>D</td>
+  <td> </td>
+  <td>D</td>
+  <td>$</td>
+</tr>
+<tr>
+  <td>*</td>
+  <td> </td>
+  <td>*</td>
+  <td>$</td>
+</tr>
+</table>
 
 #Problem 3
 Given an encrypted string as in above, output the original string. Print error message if the string is faulty
