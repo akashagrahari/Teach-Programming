@@ -4,4 +4,4 @@ Students look enthusiastic right now. Let's see how it pans out. Mostly but not 
 #Getting Started
 1. Install Ubuntu
 2. Install Java/git/sublime-text on ubuntu
-3. <Optional> Install Oh My Zsh on Ubuntu
+3. <i>Optional</i> Install Oh My Zsh on Ubuntu
