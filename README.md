@@ -61,3 +61,6 @@ WAP in Java to input a string say - "BOND IS DEAD" and encode and print it as -
 #Problem 3
 Given an encrypted string as in above, output the original string. Print error message if the string is faulty
 
+#Primer
+Change the code you wrote above. Use separation of concerns. Separate Repeated code in methods.
+
