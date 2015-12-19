@@ -22,7 +22,7 @@ WAP in Java to input a number and test whether it's a palindrome or not.
 
 #Problem 2
 WAP in Java to input a string say - "BOND IS DEAD" and encode and print it as - 
-<i>BID$OSE$N*A$DD$**$</i></br>
+`BID$OSE$N*A$DD$**$` </br>
 
 <b>Hint</b> - 
 <table>
