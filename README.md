@@ -1,4 +1,6 @@
 # Teach-Programming
+
+[![Join the chat at https://gitter.im/Programming-101/Lobby](https://badges.gitter.im/Programming-101/Lobby.svg)](https://gitter.im/Programming-101/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Students look enthusiastic right now. Let's see how it pans out. Mostly but not limited to Java
 
 #Getting Started
