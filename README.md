@@ -35,13 +35,21 @@ WAP to define a class named "Student" which models a student with the following 
 Input values for n number of students (given by user, both n and the individual values), and print the topper in each subject, and the overall topper.
 Think about the methods you will implement to follow the Don't Repeat Yourself principle (DRY)
 
+## Prerequisites before starting next pronlems - 
+It would be a good idea to start using a project management/dependency management tool now. These tools help you in organizing dependencies drastically reducing the overhead that you have to spend on managing them. And they make builds faster. As a suggestion, let's start with maven for java
+
 # Problem 2
 Write a blog application. A blog implements the following functionalities - 
 1. Add blog post
 2. Add comment
-3. List all blog posts
-4. Get blog post
+3. List all blog posts - yields all titles
+4. Get blog post - yields title, content and comments with associations of comments with content
 
 Additional Info - 
 1. The comments are supposed to be on individual paragraphs. 
 2. All blog posts have a unique random identifier, title and plain text as content
+3. The comments are not attached to any user as of now. And there are no users and no authentication. Anyone could be an admin and a viewer
+4. You should consider writing unit test cases. It might help you in making more modular code.
+
+# Problem 3
+Lets create an API implemnentation with a MySQL backend - resources would be corresponding the 4 functionalities listed above. Additionally for list all blogs, lets also implement pagination, say for 5 items. Think about ways you can do this through MySQL. Read them and apply the best possible option for your use-case.
